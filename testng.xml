@@ -2,9 +2,9 @@
 <suite name="Rest-Assured">
   <test name="Testing">
     <classes>
-      <class name ="com.restAssured.test.ApiKeyResponse"/>
-      <class name ="com.restAssured.test.NoAuthApiResponse"/>
-      <class name ="com.restAssured.test.BearerTokenResponse"/>
+      <class name ="com.restAssured.test.ApiResponse"/>
+   <!--   <class name ="com.restAssured.test.NoAuthApiResponse"/>
+      <class name ="com.restAssured.test.BearerTokenResponse"/>  -->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
